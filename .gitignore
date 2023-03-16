@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea
+DSA_Course.iml
 
 ### Eclipse ###
 .apt_generated
